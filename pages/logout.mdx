@@ -1,0 +1,11 @@
+import { signOut } from "next-auth/react";
+import {useEffect} from "React"
+
+export default function Logoff(){
+      useEffect(() => {
+        signOut({redirect: true, callbackUrl: "/"})
+         }, [])
+    return (<></>);
+}
+
+

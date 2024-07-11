@@ -1,0 +1,20 @@
+{
+  "index": "Introduction",
+  "setup" : "Authenticator App",
+  "Navigation": "Basic Navigation",
+  "NewUser": "Propose New User",
+  "SupportChannels": "Support Channels",
+  "WorkflowPanel": "Workflow Panel",
+  "SignIn": "Account & Sign in",
+  "WorkRequest": "Work Requests",
+  "ManageReports": "Manage Schedule Reports",
+  "LoggingIssues": "Logging Issues",
+  "TroubleShoot": "Trouble Shooting",
+  "about" : {
+     "display" : "hidden"
+  },
+  "logout" : {
+    "type" : "page"
+  }
+
+}
